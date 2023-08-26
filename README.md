@@ -1,6 +1,7 @@
 # "Desigualdad de genero en el sector tecnologico de la industria"
 
 **Planteamiento del problema** 
+
 A lo largo de la historia la implementacion de la igualdad de genero en la indusria tecnologica a connotado grandes avances como lo ha demostrado el activismo digital #Metoo con la intencion de impulsar el cambio o el programa Girls Who Code que ha impulsado a las mujeres dentro del sector de la informatica, pero lamentablemente algunos temas aun persisten demarcando una diferencia dispareja entre generos, tanto en terminos de representacion y oportunidades como laborales. A pesar de la evolucion en la concientizacion entre los generos alrededor del tiempo se ha demostrado una precaridad presente, las mujeres siguen estando subrepresentadas en roles tecnicos y de liderazgo en empresas de tecnologia o en el mundo laboral.
 Este problema plantea cuestiones sobre el acceso a las oportunidades de las mujeres en el ambito laborar y la educacion parcialmente basada en desarrollos tecnologicos y como esta falta de formacion e incentivación en las mujeres ha llegado a que no se valoren en este ambito.
 Resolver esta disparidad no solo es escencial para garantizar la justicia y la igualdad de oportunidades, sino tambien para formentar la diversidad del pensamiento y la innovacion en una industria que desempeña un papel cada vez mas crucial en nuestra sociedad.
