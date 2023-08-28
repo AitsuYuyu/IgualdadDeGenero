@@ -1,4 +1,11 @@
 # "Desigualdad de genero en el sector tecnologico de la industria"
+ Por: 
+- Kevin Sneider Esteban Merchan
+- Claudia Maria Correa Prieto 
+- Jose Luis Corredor Mendoza 
+- Grupo: 6
+  
+Tema: Igualdad de genero 
 
 **Planteamiento del problema** 
 
@@ -54,3 +61,39 @@ Como cada 28 de abril, una reivindicación resuena con fuerza: la erradicación 
 [https://www.redsemlac-cuba.net/redsemlac/comunicacion/mujeres-tecnologia-2022/](https://www.redsemlac-cuba.net/redsemlac/comunicacion/mujeres-tecnologia-2022/)
 
 Para medir la brecha de género en cada país, el Índice Global de Brecha de Género del Foro Económico Mundial utiliza cuatro categorías principales para determinar el nivel de desigualdad de género de un país: Participación y oportunidades económicas, logros educativos, salud y supervivencia, y empoderamiento político.
+
+
+**ESTADO DEL ARTE**
+
+INTRODUCCION: 
+
+La desigualdad de género en el sector tecnológico de la industria es un tema de gran relevancia en la sociedad contemporánea. A medida que la tecnología sigue transformando diversos aspectos de nuestras vidas y se convierte en un motor clave para el desarrollo económico, es esencial examinar de cerca cómo se manifiesta y perpetúa la disparidad entre géneros en este ámbito. A pesar de los avances significativos en la equidad de género en muchas áreas, el sector tecnológico aún enfrenta desafíos arraigados en términos de participación, representación y oportunidades para las mujeres.
+
+Esta introducción aborda la cuestión apremiante de la desigualdad de género en la industria tecnológica, explorando sus causas subyacentes, impactos en la innovación y desarrollo, así como las posibles estrategias para fomentar un ambiente más inclusivo y equitativo. A medida que la sociedad avanza hacia un futuro cada vez más tecnológico, es fundamental abordar esta desigualdad para garantizar que todas las voces, independientemente de su género, contribuyan plenamente a la creación y dirección de la tecnología que moldeará nuestro mundo.
+
+Para emplantar varios de los casos presentados y demostrar si estos han influido positivamente o negativamente en el entorno basaremos la informacion en dos sectores, el primero se llamara NEGATIVO en el cual estaran presente toda la informacion negativa y que retrasa el correcto avance de la sociedad en estos temas, el segundo se llamara POSITIVO en el cual se presenta la informacion que ha integrado nuevas formas positivas para combatir en contra de la desigualdad de genero en este sector (la informacion se tomo de los links expuestos anteriormente en el apartado del archivo) 
+
+NEGATIVOS:
+
+- Caso sillicon Valley: 
+ La desigualdad de género en Silicon Valley se refiere a la falta de equidad en la representación y participación de las mujeres en la industria tecnológica de esta región. Se manifiesta en la escasez de mujeres en roles técnicos y de liderazgo, así como en problemas de   acoso sexual. Las causas incluyen sesgos en la contratación, estereotipos arraigados y un ambiente laboral no siempre inclusivo. Aunque se han implementado programas de diversidad, la brecha de género persiste, lo que destaca la importancia de abordar este problema en    uno de los epicentros tecnológicos del mundo. 
+
+- Brecha de genero presente:
+  La brecha de género en el sector tecnológico se ha mantenido como un problema persistente a lo largo de los años. En muchas partes del mundo, las mujeres han estado subrepresentadas en roles técnicos y de liderazgo en la industria tecnológica. Algunos aspectos que han    caracterizado esta brecha incluyen:
+  
+    - Baja representación: Las mujeres han estado subrepresentadas en campos como la ingeniería, la programación y la ciencia de datos. Esto se ha reflejado en la composición desigual de la fuerza laboral en empresas tecnológicas y en la menor cantidad de mujeres que           eligen carreras en tecnología.
+
+    - Brecha salarial: Las mujeres en el sector tecnológico a menudo han enfrentado diferencias salariales en comparación con sus contrapartes masculinas en roles similares. Esto ha contribuido a la disparidad económica entre géneros.
+
+    - Falta de ascenso: Las mujeres también han tenido dificultades para avanzar en sus carreras en el sector tecnológico, con menos oportunidades de promoción y acceso a roles de liderazgo.
+
+    - Ambiente laboral: En algunos casos, el ambiente laboral en el sector tecnológico ha sido señalado como poco inclusivo para las mujeres, con problemas como acoso sexual y falta de apoyo para el equilibrio entre trabajo y vida personal.
+
+    - Estereotipos y sesgos: Estereotipos de género y sesgos inconscientes han influido en la percepción de las habilidades y la idoneidad de las mujeres en roles tecnológicos, lo que puede afectar sus oportunidades profesionales.
+
+    - Iniciativas de diversidad: A pesar de estos desafíos, muchas empresas han comenzado a implementar programas y políticas de diversidad e inclusión para abordar la brecha de género y crear un ambiente más equitativo.
+
+POSITIVOS:
+
+
+
