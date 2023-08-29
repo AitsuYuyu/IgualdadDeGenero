@@ -95,5 +95,15 @@ NEGATIVOS:
 
 POSITIVOS:
 
+- Campus:
+  Un BootCamp en la que chicos entre 16 a 28 años pueden estudiar de forma gratuita y aprender a programar, siendo totalmente inclusivo con las mujeres y tratando la igualdad como algo muy importante.
+- Unicef:
+  A partir de los trabajos de igualdad que ha generado UNICEF ha demostrado que el empoderamiento de las niñas, adolescentes y mujeres es clave para romper con el ciclo de discriminación y violencia. Cuando una sociedad   consigue que las mujeres en toda su diversidad alcancen su plena autonomía económica, física y política, asegura que se cumplan sus derechos en igualdad de condiciones y, por tanto, garantiza también que niños, niñas y   adolescentes tengan un desarrollo pleno.
+- BBVA, La inclusion de al mujer en el mundo de la tecnologia:
+  La inclusión laboral de las mujeres en el campo de la tecnología crece año a año. Sin embargo, aún es menor a la de los hombres. En la edición virtual del Hackathon BBVA 2020, Estefany Aguilar, docente en Pratzi y co-    organizadora de la comunidad ‘Medellín CSS’, habló de su experiencia como mujer en el mundo de la tecnología desde el campo de los desarrolladores.
+- Samsung:
+  La inclusión laboral de las mujeres en el campo de la tecnología crece año a año. Sin embargo, aún es menor a la de los hombres. En la edición virtual del Hackathon BBVA 2020, Estefany Aguilar, docente en Pratzi y co-    organizadora de la comunidad ‘Medellín CSS’, habló de su experiencia como mujer en el mundo de la tecnología desde el campo de los desarrolladores.
 
+  CONCLUSION:
 
+  Concluimos que la igualdad de genero es un objetivo crucial para construir una sociedad justa y equitativa. Al empoderar a todas las personas, independientemente de su genero, se fomenta el progreso social, economico y  cultural. A medida que seguimos desafiando estereotipos, eliminando barreras y promoviendo la inclusion, estamos trabajando hacia un mundo donde todas las voces son valoradas por igual, y donde cada individuo tiene la  oportunidad de alcanzar su maximo potencial sin limitaciones impuestas por normas de genero obsoletas. 
