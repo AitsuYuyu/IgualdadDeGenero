@@ -9,18 +9,13 @@ Tema: Igualdad de genero
 
 **Planteamiento del problema** 
 
-A lo largo de la historia la implementacion de la igualdad de genero en la indusria tecnologica a connotado grandes avances como lo ha demostrado el activismo digital #Metoo con la intencion de impulsar el cambio o el programa Girls Who Code que ha impulsado a las mujeres dentro del sector de la informatica, pero lamentablemente algunos temas aun persisten demarcando una diferencia dispareja entre generos, tanto en terminos de representacion y oportunidades como laborales. A pesar de la evolucion en la concientizacion entre los generos alrededor del tiempo se ha demostrado una precaridad presente, las mujeres siguen estando subrepresentadas en roles tecnicos y de liderazgo en empresas de tecnologia o en el mundo laboral.
-Este problema plantea cuestiones sobre el acceso a las oportunidades de las mujeres en el ambito laborar y la educacion parcialmente basada en desarrollos tecnologicos y como esta falta de formacion e incentivación en las mujeres ha llegado a que no se valoren en este ambito.
-Resolver esta disparidad no solo es escencial para garantizar la justicia y la igualdad de oportunidades, sino tambien para formentar la diversidad del pensamiento y la innovacion en una industria que desempeña un papel cada vez mas crucial en nuestra sociedad.
+A pesar de avances como #MeToo y Girls Who Code, las mujeres aún enfrentan desigualdad en la industria tecnológica, tanto en representación como en oportunidades laborales. Esto plantea problemas de acceso y falta de formación. Resolver esta brecha es clave para la igualdad y la innovación en una industria crucial. Se necesita un esfuerzo continuo para superar estos obstáculos.
 
 **¿Cual es el objetivo de este proyecto?**
 
-Realizar una pagina informativa que ayude a orientar a las chicas que quieran iniciar en el mundo de la tecnologia (software, programacion,etc)  con enlaces a un portal web que contenga informacion respecto a centros educativos formativos en america para ayudar a aquellas que se quieran iniciar.
+Crear una página informativa destinada a mujeres interesadas en la tecnología del software, proporcionando enlaces a recursos educativos y organizaciones que promuevan la formación y la igualdad de género en esta área.
 
-una de las mejores maneras para concientizar y dar la correcta informacion es creando centros informativos, como foros e informacion de los lugares en los que concientizan a la formacion de la mujer en estos sectores.
-
-Uno de los propositos para demostrar la importancia de la igualdad de genero y concientizar a las personas de que todos tenemos las capacidades de lograr lo que queramos en el ambito laboral sin importar nuestro genero. Beneficiando asi dos sectores (a las mujeres que quieran iniciar en este mundo y a la entidad contratante).
-
+El propósito principal es fomentar la igualdad de oportunidades y concienciar sobre el potencial de las mujeres en el campo del software. Esto no solo beneficia a las mujeres que desean ingresar en esta industria, sino que también enriquece y diversifica el sector del software, impulsando la innovación y la creatividad.
 **Desigualdad de genero dentro del campo tecnologico
 Bibliografias.**
 
