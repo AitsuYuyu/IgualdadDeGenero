@@ -106,4 +106,11 @@ POSITIVOS:
 
   CONCLUSION:
 
-  Concluimos que la igualdad de genero es un objetivo crucial para construir una sociedad justa y equitativa. Al empoderar a todas las personas, independientemente de su genero, se fomenta el progreso social, economico y  cultural. A medida que seguimos desafiando estereotipos, eliminando barreras y promoviendo la inclusion, estamos trabajando hacia un mundo donde todas las voces son valoradas por igual, y donde cada individuo tiene la  oportunidad de alcanzar su maximo potencial sin limitaciones impuestas por normas de genero obsoletas. 
+  Concluimos que la igualdad de genero es un objetivo crucial para construir una sociedad justa y equitativa. Al empoderar a todas las personas, independientemente de su genero, se fomenta el progreso social, economico y  cultural. A medida que seguimos desafiando estereotipos, eliminando barreras y promoviendo la inclusion, estamos trabajando hacia un mundo donde todas las voces son valoradas por igual, y donde cada individuo tiene la  oportunidad de alcanzar su maximo potencial sin limitaciones impuestas por normas de genero obsoletas.
+
+
+
+  **wireframe**
+
+![image](https://github.com/AitsuYuyu/IgualdadDeGenero/assets/136203413/0ff58453-49b4-4fb8-9753-9be341c572a1)
+
